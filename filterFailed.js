@@ -1,5 +1,3 @@
-const passScore = 60;
-
 function filterFailed(data, passScore) {
   const failedStudents = [];
 
